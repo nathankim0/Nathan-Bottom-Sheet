@@ -7,7 +7,7 @@ Custom Bottom sheet that can be swept down and swept up
 
 ## Options 
 ---
-[Interface (INathanPicker)](https://github.com/Jinyeob/NathanBottomSheet/blob/master/INathanPicker.cs)
+[Interface (INathanPicker)](https://github.com/Jinyeob/Nathan-Bottom-Sheet/blob/master/INathanPicker.cs)
 ### Methods
 - void VisiblePicker();
 <br>NathanPicker를 띄웁니다.
