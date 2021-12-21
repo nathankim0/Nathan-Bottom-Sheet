@@ -3,7 +3,6 @@
 # Nathan Bottom Sheet (Xamarin Forms)
 ---
 Custom Bottom sheet that can be swept down and swept up
-> ❌   회사 보안상,  전체 코드를 첨부하지 않았습니다.
 
 ## Options 
 ---
